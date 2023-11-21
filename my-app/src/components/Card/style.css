@@ -1,0 +1,19 @@
+.cards{
+        width: 400px;
+        height: 450px; 
+        border: 2px solid black;
+        display: flex;
+        justify-content: center;
+        margin: 10px;
+}
+/* .image img{
+    border: 1px solid black;
+    width: 100%;
+    height: 70%;
+}
+.qiymet{
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+} */

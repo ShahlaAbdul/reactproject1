@@ -1,0 +1,18 @@
+.main{
+    background-color: #4d0000;
+    color: white;
+    display: flex;
+    height: 30%;
+    justify-content: center;
+
+    
+}
+ul{
+    padding: 20px;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 10%;
+    align-items: center;
+}
